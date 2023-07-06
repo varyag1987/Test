@@ -1,1 +1,1 @@
-echo "Hello Mars!"
+def a = 1
